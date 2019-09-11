@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

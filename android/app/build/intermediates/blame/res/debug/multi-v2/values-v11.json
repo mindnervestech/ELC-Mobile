@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mindnerves/dev/workspace/elc-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/mindnerves/.gradle/caches/transforms-2/files-2.1/6106b05dcbedf286c84b9464d03909fd/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "162",
+                        "endColumns": "45",
+                        "endOffsets": "203"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}

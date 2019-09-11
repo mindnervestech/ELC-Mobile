@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    }
+]

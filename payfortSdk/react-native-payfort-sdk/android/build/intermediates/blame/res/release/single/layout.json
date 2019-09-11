@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/activity_cc_response.xml",
+        "source": "/Users/mac/Documents/projects/workspace/nayomi_app/android/FORTSDKv1.5/build/.transforms/0c2eb86dc8d709e4de940a2373ed0008/res/layout/activity_cc_response.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/e5f84eff5853296d4aaee48c3b80bf67/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/e5f84eff5853296d4aaee48c3b80bf67/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/e5f84eff5853296d4aaee48c3b80bf67/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/mtrl_layout_snackbar_include.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_text_input_password_icon.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/newton_cradle_loading.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/e4023fa18afa61b083eeba10d1978112/res/layout/newton_cradle_loading.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/97d8b7be70445115063f2686efbe3164/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/97d8b7be70445115063f2686efbe3164/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/97d8b7be70445115063f2686efbe3164/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/activity_cc_payment.xml",
+        "source": "/Users/mac/Documents/projects/workspace/nayomi_app/android/FORTSDKv1.5/build/.transforms/0c2eb86dc8d709e4de940a2373ed0008/res/layout/activity_cc_payment.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/e5f84eff5853296d4aaee48c3b80bf67/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/book_loading.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/e4023fa18afa61b083eeba10d1978112/res/layout/book_loading.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/97d8b7be70445115063f2686efbe3164/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/sb__template.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/7bffc87c0f8be7061c0f08be22c2fd0e/res/layout/sb__template.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/e5f84eff5853296d4aaee48c3b80bf67/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/97d8b7be70445115063f2686efbe3164/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/activity_payfort.xml",
+        "source": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/src/main/res/layout/activity_payfort.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/mtrl_layout_snackbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/activity_init_secure_conn.xml",
+        "source": "/Users/mac/Documents/projects/workspace/nayomi_app/android/FORTSDKv1.5/build/.transforms/0c2eb86dc8d709e4de940a2373ed0008/res/layout/activity_init_secure_conn.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/layout/abc_select_dialog_material.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/18c19da2a3a1c257187dad91f0d7846f/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]

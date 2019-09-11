@@ -1,0 +1,10 @@
+#Wed Sep 11 16:01:25 IST 2019
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/mindnerves/dev/workspace/elc-mobile/android/app/build/intermediates/transforms/dexMerger/debug/0
+base.1=/home/mindnerves/dev/workspace/elc-mobile/android/app/build/intermediates/transforms/dexMerger/debug/0
+base.0=/home/mindnerves/dev/workspace/elc-mobile/android/app/build/intermediates/transforms/dexMerger/debug/0

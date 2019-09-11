@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout-ar/activity_cc_response.xml",
+        "source": "/Users/mac/Documents/projects/workspace/nayomi_app/android/FORTSDKv1.5/build/.transforms/0c2eb86dc8d709e4de940a2373ed0008/res/layout-ar/activity_cc_response.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout-ar/activity_cc_payment.xml",
+        "source": "/Users/mac/Documents/projects/workspace/nayomi_app/android/FORTSDKv1.5/build/.transforms/0c2eb86dc8d709e4de940a2373ed0008/res/layout-ar/activity_cc_payment.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/layout-ar/activity_init_secure_conn.xml",
+        "source": "/Users/mac/Documents/projects/workspace/nayomi_app/android/FORTSDKv1.5/build/.transforms/0c2eb86dc8d709e4de940a2373ed0008/res/layout-ar/activity_init_secure_conn.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/transition/activity_fade.xml",
+        "source": "/Users/mac/Documents/projects/workspace/nayomi_app/android/FORTSDKv1.5/build/.transforms/0c2eb86dc8d709e4de940a2373ed0008/res/transition/activity_fade.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/transition/activity_slide.xml",
+        "source": "/Users/mac/Documents/projects/workspace/nayomi_app/android/FORTSDKv1.5/build/.transforms/0c2eb86dc8d709e4de940a2373ed0008/res/transition/activity_slide.xml"
+    }
+]

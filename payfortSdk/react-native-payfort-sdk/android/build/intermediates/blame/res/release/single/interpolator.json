@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/interpolator/mtrl_linear.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/interpolator/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/interpolator/sb__decelerate_cubic.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/7bffc87c0f8be7061c0f08be22c2fd0e/res/interpolator/sb__decelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/interpolator/sb__accelerate_cubic.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/7bffc87c0f8be7061c0f08be22c2fd0e/res/interpolator/sb__accelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/projects/workspace/nayomi_app/node_modules/react-native-payfort-sdk/android/build/intermediates/res/merged/release/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/53010e3184237e82fcced9996b26fbaa/res/interpolator/mtrl_linear_out_slow_in.xml"
+    }
+]
