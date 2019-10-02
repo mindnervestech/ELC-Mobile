@@ -36,7 +36,7 @@ import EditAddress  from './src/pages/Profile/EditAddress';
 const AppNavigation = createStackNavigator({
   Home: { screen: HomeScreen, navigationOptions: { header: null } },
   HomeOffers: { screen: HomeOffersScreen, navigationOptions: { header: null } },
-  Profile: { screen: ProfileScreen, navigationOptions: { header: null }},
+  Profile: { screen: ProfileScreen, navigationOptions: { header: null }}, 
   EditAddress: { screen: EditAddress, navigationOptions: { header: null }},
   Help: { screen: HelpScreen, navigationOptions: { header: null }},
   FAQ: { screen: FAQScreen, navigationOptions: { header: null } },
